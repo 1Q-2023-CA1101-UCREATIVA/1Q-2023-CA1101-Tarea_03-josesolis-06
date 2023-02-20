@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "Test n&#38;&#35;250&#59;meros pares",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest tests/numeros_pares_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 50
+    },
+    {
+      "name": "Test ingredientes",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest tests/ingredientes_test.py",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 50
+    }
+  ]
+}
