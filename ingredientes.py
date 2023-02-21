@@ -1,4 +1,4 @@
-ingredientes = ['pan', 'mantequilla', 'lechuga', 'mantequilla', 'salsa']
+ingredientes = ['pan', 'tomate', 'lechuga', 'mantequilla', 'salsa']
 indice = 1
 for lista in ingredientes:
     print(indice, lista)
